@@ -19,7 +19,6 @@
             }
             base.Dispose(disposing);
         }
-        ///comment test
 
         #region Windows Form Designer generated code
 
